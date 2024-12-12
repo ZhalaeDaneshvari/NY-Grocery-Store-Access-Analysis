@@ -79,7 +79,7 @@ This project analyzes the relationship between grocery store accessibility and s
 ## Contributors
 - Zhalae Daneshvari - @ZhaLaeDaneshvari
 - Peyton Smith - @peytonrsmith
-- Sunny Liu @sl-013
+- Sunny Liu - @sl-013
 
 ## Acknowledgments
 - USDA Food Access Research Atlas
